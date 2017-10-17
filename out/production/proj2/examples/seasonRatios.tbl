@@ -1,0 +1,13 @@
+City string,Season int,Ratio int
+'New York',2015,1
+'New York',2014,0
+'New York',2013,0
+'Pittsburgh',2015,1
+'Pittsburgh',2014,2
+'Pittsburgh',2013,1
+'New England',2015,3
+'New England',2014,3
+'New England',2013,3
+'Berkeley',2016,0
+'Berkeley',2015,1
+'Berkeley',2014,0

@@ -4,7 +4,7 @@ Database
 =========
 ##Berkeley CS61B Project 2
 
-This project is about a domain specific language like SQL developed by using Java.
+This project is an Implement of domain-specific language like SQL developed by using Java.
 
 I built a small version of relational database management system with standard functions as below.
 
